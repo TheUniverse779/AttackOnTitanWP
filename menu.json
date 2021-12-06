@@ -1,5 +1,12 @@
 {
   "category": [
+	{
+      "name": "Attack on Titan special collection",
+      "ratio": "2160:3840",
+      "image": "https://raw.githubusercontent.com/TheUniverse779/AttackOnTitanWP/main/special/18.jpg",
+      "id": "AttackOnTitanWP/main/special",
+      "count": 37
+    },
     {
       "name": "Attack on Titan collection 1",
       "ratio": "1064:1500",
