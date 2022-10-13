@@ -2,15 +2,15 @@
   "category": [
 	{
       "name": "AOT special wallpaper",
-      "ratio": "2160:3840",
-      "image": "https://raw.githubusercontent.com/TheUniverse779/AttackOnTitanWP/main/special/18.jpg",
+      "ratio": "1080:1920",
+      "image": "https://raw.githubusercontent.com/TheUniverse779/AttackOnTitanWP/main/special/11.jpg",
       "id": "AttackOnTitanWP/main/special",
-      "count": 37
+      "count": 38
     },
 	{
       "name": "Levi Ackerman wallpaper",
-      "ratio": "561:1058",
-      "image": "https://raw.githubusercontent.com/TheUniverse779/AttackOnTitanWP/main/levi/0.jpg",
+      "ratio": "500:692",
+      "image": "https://raw.githubusercontent.com/TheUniverse779/AttackOnTitanWP/main/levi/43.jpg",
       "id": "AttackOnTitanWP/main/levi",
       "count": 134
     },
@@ -23,8 +23,8 @@
     },
     {
       "name": "AOT wallpaper 1",
-      "ratio": "1064:1500",
-      "image": "https://raw.githubusercontent.com/TheUniverse779/AttackOnTitanWP/main/folder1/12.jpg",
+      "ratio": "736:956",
+      "image": "https://raw.githubusercontent.com/TheUniverse779/AttackOnTitanWP/main/folder1/1.jpg",
       "id": "AttackOnTitanWP/main/folder1",
       "count": 249
     },
